@@ -34,4 +34,11 @@
       Parole chiave associate ai libri per la loro ricerca e la correlazione con altri libri o categorie
     </td>
   </tr>
+  <tr>
+    <td>Preferenza</td>
+    <td></td>
+    <td>
+      Con preferenza si indica una azione da parte dell'utente nei confronti di un libro con la quale viene indicato che all'utente è piaciuto il libro.
+    </td>
+  </tr>
 </table>

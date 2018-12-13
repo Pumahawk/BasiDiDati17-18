@@ -19,7 +19,7 @@ Per ogni utente si tiene traccia delle seguenti informazioni:
 
 ##Libro
 
-I libri possono essere inseriti in diverse categorie narrative, ogni libro viene inserito in almeno una categoria narrativa. Ogni lirbo può essere inserito anche in una delle categorie _Primo piano_, _In salita_ e _Nuovo_.
+I libri possono essere inseriti in diverse categorie narrative, ogni libro viene inserito in almeno una categoria narrativa. Ogni libro può essere inserito anche in una delle categorie _Primo piano_, _In salita_ e _Nuovo_.
 
 I libri sono suddivisibili in capitoli i cui titolo sono visibili nella sezione sommario. Ogni capitolo è composto da paragrafi. Gli utenti possono rilasciare commenti sui singoli paragrafi.
 
