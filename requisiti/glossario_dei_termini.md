@@ -1,0 +1,37 @@
+#Glossario dei termini
+
+<table>
+  <tr>
+    <td>Termine</td>
+    <td>Sinonimi</td>
+    <td>Descrizione</td>
+  </tr>
+  <tr>
+    <td>Utente</td>
+    <td>Scrittori</td>
+    <td>
+      Persone iscritte alla piattaforma ai quali viene permesso di interagire con la piattaforma
+    </td>
+  </tr>
+  <tr>
+    <td>Libro</td>
+    <td></td>
+    <td>
+      Storie scritte dagli utenti
+    </td>
+  </tr>
+  <tr>
+    <td>Categorie</td>
+    <td>Categorie narrative</td>
+    <td>
+      Categorie per le quali i libri appartengono e vengono categorizzati
+    </td>
+  </tr>
+  <tr>
+    <td>Tag</td>
+    <td></td>
+    <td>
+      Parole chiave associate ai libri per la loro ricerca e la correlazione con altri libri o categorie
+    </td>
+  </tr>
+</table>
