@@ -1,6 +1,7 @@
 html: build/build.html
 
-build/build.html: src/1.1_requisiti_iniziali.md \
+build/build.html: build/head.html \
+		src/1.1_requisiti_iniziali.md \
 		src/1.2_glossario_dei_termini.md \
 		src/1.3_requisiti_rivisti.md \
 		src/1.4_Requisiti_strutturati_in_gruppi_di_frasi_omogenee.md \
