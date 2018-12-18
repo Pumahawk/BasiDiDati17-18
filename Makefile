@@ -5,7 +5,7 @@ html: build/build.html
 build/build.html: build/head.html \
 		src/*.md
 	cat build/head.html > build/build.html;
-	for file in $$(find src -name *.md); do markdown $$file >> build/build.html; done
+	for file in $$(find src -name *.md | sort); do markdown $$file >> build/build.html; done
 
 
 rm:

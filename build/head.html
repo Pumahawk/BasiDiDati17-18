@@ -20,6 +20,14 @@
     margin: auto;
     width: 100%;
   }
+  @page {
+    margin: auto;
+    margin: 25mm 25mm 25mm 25mm;
+  }
+  table { page-break-inside:auto }
+  tr    { page-break-inside:avoid; page-break-after:auto }
+  thead { display:table-header-group }
+  tfoot { display:table-footer-group }
 </style>
 <div class="intestazione">
   <div class="logo">
