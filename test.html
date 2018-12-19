@@ -1,0 +1,23 @@
+<h1>DDL di creazione database</h1>
+
+<hr />
+
+<ol>
+<li><strong>UTENTI</strong>
+<pre>
+CREATE TABLE UTENTI (
+  username varchar(20),
+  email varchar(50),
+  password varchar(50),
+  dataDiNascita DATE
+)
+</pre></li>
+<li><strong>LIBRI</strong>
+<pre>
+CREATE TABLE LIBRI (
+  titolo varchar(50),
+  descrizione varchar(1000),
+  utente varchar(20) references UTENTI
+  )
+</pre></li>
+</ol>
